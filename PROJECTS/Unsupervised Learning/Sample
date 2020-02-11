@@ -1,1 +1,31 @@
 
+The dataset was used in the 1983 American Statistical Association Exposition. The data concerns city-cycle fuel consumption in miles per gallon, to be predicted in terms of 2 multivalued discrete and 4 continuous variables. 
+
+Dataset: cars-dataset.csvView in a new window
+
+Attribute Information:
+
+Car Name – Name of the car
+
+Cyl – No of cylinders in the car – Multivalued discrete
+
+Disp – Displacement – continuous
+
+Hp – Horsepower – continuous
+
+Wt – Weight – continuous
+
+Acc – Accleration – continuous
+
+Yr – Model of the car – Multivalued discrete
+
+******************************************************************************************************************************
+
+Please find below the Project 2 for Unsupervised Learning course. This is an individual assignment. Kindly submit it before it's deadline.
+
+The purpose of the case study is to classify a given silhouette as one of four different types of vehicle, using a set of features extracted from the silhouette. The vehicle may be viewed from one of many different angles.
+Four &quot;Corgie&quot; model vehicles were used for the experiment: a double decker bus, Cheverolet
+van, Saab 9000 and an Opel Manta 400 cars. This particular combination of vehicles was chosen with the expectation that the bus, van and either one of the cars would be readily distinguishable, but it would be more difficult to distinguish between the cars.
+The purpose is to classify a given silhouette as one of three types of vehicle, using a set of features extracted from the silhouette. The vehicle may be viewed from one of many different angles.
+ 
+Link to the case file: vehicle.csvView in a new window
