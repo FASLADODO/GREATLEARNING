@@ -1,0 +1,37 @@
+P(Yellow | Banana) =  P(Banana|Yellow) * P(Yellow) / P(Banana)
+
+P(Yellow | Banana) = ((400/800)*(800/1200)) / (400/1200)
+
+P(Yellow | Banana) = ((0.333333333) / 0.333333333)
+
+P(Yellow | Banana) = 1
+
+----------------------------------------------------------------
+
+P(Sweet | Banana)  = P(Banana|Sweet) * P(Sweet) / P(Banana)
+
+P(Sweet | Banana)  = ((300/800)* (850/1200)) / (400/1200)
+
+P(Sweet | Banana) = ((0.375)*(0.708333333)) / (0.333333333)
+
+P(Sweet | Banana) = 0.2655 / 0.3333
+
+P(Sweet | Banana) = 0.796
+
+-------------------------------------------------------------
+
+P(Long | Banana) = P(Banana|Long) * P(Long) / P(Banana)
+
+P(Long | Banana)  = ((350/400)*(400/1200)) / (400/1200)
+
+P(Long | Banana)  = (0.875 * 0.333) / 0.333
+
+P(Long | Banana)  = 0.291 / 0.333
+
+P(Long | Banana)  = 0.873
+
+-----------------------------------------------------------
+
+P(Fruit | Banana) = 1*0.796*0.873
+
+P(Fruit | Banana) = 0.694
